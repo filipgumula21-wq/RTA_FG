@@ -1,1 +1,1 @@
-# RTA_FG
+# Analiza danych w czasie rzeczywistym
